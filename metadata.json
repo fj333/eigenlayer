@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "<https://www.example.com/logo.png>",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "vlegel",
+  "website": "https://nos.nl/",
+  "description": "Is mooie niews website",
+  "logo": "https://images.rawpixel.com/image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JvYl9yYXdwaXhlbF9zdHVkaW9fcGhvdG9ncmFwaF9vZl9hX2Z1bGxfYm9keV9nb3JpbGxhX2lzb2xhdGVkX183MGMyNzRmYS1jYTM2LTQyOTMtOTgyYi0yMjdmOTFhOWI4NDUtNXgtaHEtc2NhbGUtNV8wMHgtam9iMTg5NF8xLnBuZw.png",
+  "twitter": "https://twitter.com/Vlegelmans"
 }
